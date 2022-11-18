@@ -12,17 +12,17 @@
 ![Operating System For Companies](operatingsys.png)
 ---
 ## Why Did Zappos Choose Holocracy
-![DynamicFlatOrg](dynamicflat.png)
+![Zappos](zappos.jpg)
 ---
 ## Organising Around Purpose
 ![Organising Around Purpose](HWD.png)
 
 ---
 ## Why Is It Agile
-
+![DynamicFlatOrg](dynamicflat.png)
 - From roles to functions, no more functions
 - From delegated to diffused authority, there is no longer a boss.
-- Agile: rapid, incremental evolution rather than large reorganizations
+- Rapid, incremental evolution rather than large reorganizations
 - Responsibility clarification: explicit and transparent norms rather than politics  based on implicit expectations
 
 
@@ -36,7 +36,7 @@
 ![Revolution](holocracyrevolution.png)
 
 ---
-## Challenges Vs Oppurtunites
+## Navigating Challenges And Oppurtunities
 ![Why?](challengesvsoppurutnites.png)
 
 ---
@@ -56,7 +56,7 @@
 ## What Would You Get If you Work In A Holocracy Organisation
 ![Key](key.png)
 
---
+---
 ## Is It Easy to Implement ?
 Definitely Not , No Change Is Easy. Lot Of Hurdles But At The End Definitely 
 ![Implement](traditionalco.png)
