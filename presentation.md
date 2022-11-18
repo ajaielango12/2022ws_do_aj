@@ -1,9 +1,9 @@
-## Holocracy 
-![HolocracyLogo](logo.png)
+## Holacracy 
+![HolacracyLogo](logo.png)
 
 ---
 ## Inspired From Nature 
-![Holocracy_Body](holocracy.png)
+![Holacracy_Body](holocracy.png)
 ---
 ## Dynamic and Ever Changing Landscape In Business
 ![Dynamic and Everchaning Landscape](dynamiccme.png)
@@ -11,7 +11,7 @@
 ## An Operating System For Companies ?
 ![Operating System For Companies](operatingsys.png)
 ---
-## Why Did Zappos Choose Holocracy
+## Why Did Zappos Choose Holacracy
 ![Zappos](zappos.jpg)
 ---
 ## Organising Around Purpose
@@ -20,19 +20,20 @@
 ---
 ## Why Is It Agile
 ![DynamicFlatOrg](dynamicflat.png)
+
+<p style="font-size:8">
 - From roles to functions, no more functions
 - From delegated to diffused authority, there is no longer a boss.
 - Rapid, incremental evolution rather than large reorganizations
 - Responsibility clarification: explicit and transparent norms rather than politics  based on implicit expectations
-
-
+</p>
 
 ---
 ## Why Is It Scalable
 ![Change](Thechange.png)
 
 ---
-## Why Companies Choose Holocracy?
+## Why Companies Choose Holacracy?
 ![Revolution](holocracyrevolution.png)
 
 ---
@@ -45,7 +46,7 @@
 
 
 ---
-## Power Of Holocracy
+## Power Of Holacracy
 ![Power](IDEX.png)
 
 ---
@@ -53,7 +54,7 @@
 ![Conflict And Decisions](Conflictsanddecisions.png)
 
 ---
-## What Would You Get If you Work In A Holocracy Organisation
+## What Would You Get If you Work In A Holacracy Organisation
 ![Key](key.png)
 
 ---
