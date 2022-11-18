@@ -1,12 +1,11 @@
 ## Holacracy 
 ![HolacracyLogo](logo.png)
-
----
-## Inspired From Nature 
-![Holacracy_Body](holocracy.png)
 ---
 ## Dynamic and Ever Changing Landscape In Business
 ![Dynamic and Everchaning Landscape](dynamiccme.png)
+---
+## Inspired From Nature 
+![Holacracy_Body](holocracy.png)
 ---
 ## An Operating System For Companies ?
 ![Operating System For Companies](operatingsys.png)

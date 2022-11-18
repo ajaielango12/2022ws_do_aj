@@ -1,11 +1,11 @@
-# Holocracy 
+# Holacracy 
 
 by Ajai E 
 
 ## Holacracy 
 
 
-The new management system that made headline news when Zappos asked that all its employees follow the system or take a pay to resign in 14% of the employees. The option to leave the holacracy structure resembles how nature organizes systems like the human body, where cells function autonomously within organs, which in turn function autonomously within the body. 
+The new management system that made headline news when Zappos asked that all its employees follow the system or take a pay to resign in 14% of the employees. The  holacracy structure resembles how nature organizes systems like the human body, where cells function autonomously within organs, which in turn function autonomously within the body. 
 
 
 The impetus behind Holacracy, the main idea behind this new system, is that today's companies must survive in an increasingly complex and dynamic environment that requires an equally dynamic organizational structure to properly address new challenges and opportunities. 
