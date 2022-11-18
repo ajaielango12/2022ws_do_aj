@@ -36,7 +36,7 @@
 ![Revolution](holocracyrevolution.png)
 
 ---
-## Navigating Challenges And Oppurtunities
+## Navigating Challenges And Oppurtunities:In Project Manageement Context
 ![Why?](challengesvsoppurutnites.png)
 
 ---
@@ -49,7 +49,7 @@
 ![Power](IDEX.png)
 
 ---
-## How Is Conflicts and Decisions Made
+## How Is Conflicts Handled?
 ![Conflict And Decisions](Conflictsanddecisions.png)
 
 ---
@@ -70,6 +70,11 @@ Definitely Not , No Change Is Easy. Lot Of Hurdles But At The End Definitely
 
 ---
 ## Key Three Take Aways 
+
+---
+# THANK YOU!
+
+A Presentation By Ajai Senkotuvel
 
 
 
