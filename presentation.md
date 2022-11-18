@@ -5,7 +5,7 @@
 ## Inspired From Nature 
 ![Holocracy_Body](holocracy.png)
 ---
-## Dynamic and Ever Chaning Landscape In Business
+## Dynamic and Ever Changing Landscape In Business
 ![Dynamic and Everchaning Landscape](dynamiccme.png)
 ---
 ## An Operating System For Companies ?
