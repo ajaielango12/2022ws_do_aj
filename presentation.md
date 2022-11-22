@@ -20,13 +20,6 @@
 ## Why Is It Agile
 ![DynamicFlatOrg](dynamicflat.png)
 
-<p style="font-size:8">
-- From roles to functions, no more functions
-- From delegated to diffused authority, there is no longer a boss.
-- Rapid, incremental evolution rather than large reorganizations
-- Responsibility clarification: explicit and transparent norms rather than politics  based on implicit expectations
-</p>
-
 ---
 ## Why Is It Scalable
 ![Change](Thechange.png)
@@ -70,6 +63,7 @@ Definitely Not , No Change Is Easy. Lot Of Hurdles But At The End Definitely
 
 ---
 ## Key Three Take Aways 
+![Key](key.png)
 
 ---
 # THANK YOU!
